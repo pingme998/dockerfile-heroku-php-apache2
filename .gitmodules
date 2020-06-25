@@ -1,0 +1,3 @@
+[submodule "ansible-playbook-heroku-php-apache"]
+	path = ansible-playbook-heroku-php-apache
+	url = https://github.com/yukihiko-shinoda/ansible-playbook-heroku-php-apache.git
